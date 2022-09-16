@@ -1,0 +1,46 @@
+<resources>
+    <string name="appname">recyclerview2</string>
+    <string name="app_name">RecyclerView</string>
+    <string-array name="planets">
+        <item>City</item>
+        <item>Nizan</item>
+        <item>Polo v2</item>
+        <item>Nano</item>
+        <item>Jupyter</item>
+        <item>Innova</item>
+        <item>alto</item>
+        <item>k10</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Best in class Royal look with good milage all at a small price</item>
+        <item>Best in class Royal look with good milage all at a small price</item>
+        <item>Best in class Royal look with good milage all at a small price</item>
+        <item>Best in class Royal look with good milage all at a small price</item>
+        <item>Best in class Royal look with good milage all at a small price</item>
+        <item>Best in class Royal look with good milage all at a small price</item>
+        <item>Best in class Royal look with good milage all at a small price</item>
+        <item>Best in class Royal look with good milage all at a small price</item>
+    </string-array>
+
+    <string-array name="price">
+        <item>2.3L</item>
+        <item>5.5L</item>
+        <item>2.7L</item>
+        <item>1.5L</item>
+        <item>10L</item>
+        <item>2L</item>
+        <item>27L</item>
+        <item>75K</item>
+    </string-array>
+    <string-array name="milage">
+        <item>20km</item>
+        <item>17km</item>
+        <item>15km</item>
+        <item>21km</item>
+        <item>21km</item>
+        <item>22km</item>
+        <item>24km</item>
+        <item>25km</item>
+    </string-array>
+</resources>
